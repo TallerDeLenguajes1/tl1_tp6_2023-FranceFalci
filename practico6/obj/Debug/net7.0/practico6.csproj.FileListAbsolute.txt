@@ -1,0 +1,15 @@
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\bin\Debug\net7.0\practico6.exe
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\bin\Debug\net7.0\practico6.deps.json
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\bin\Debug\net7.0\practico6.runtimeconfig.json
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\bin\Debug\net7.0\practico6.dll
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\bin\Debug\net7.0\practico6.pdb
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.csproj.AssemblyReference.cache
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.AssemblyInfoInputs.cache
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.AssemblyInfo.cs
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.csproj.CoreCompileInputs.cache
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.dll
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\refint\practico6.dll
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.pdb
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\practico6.genruntimeconfig.cache
+D:\usuarios\alumno\escritorio\PrimerCuatrimestre2023\TallerDeLenguajes\tl1_tp6_2023-FranceFalci\practico6\obj\Debug\net7.0\ref\practico6.dll
