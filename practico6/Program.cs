@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Ingrese un número: ");
+Console.WriteLine("hola");
 string numeroIngresado = Console.ReadLine();
 
 Console.WriteLine(numeroIngresado);
@@ -20,19 +20,3 @@ else
 
 
 
-
-string invertido = invertirNumero(numeroCasteado);
-Console.WriteLine(invertido);
-
-
-string invertirNumero(int numero)
-{
-     if(numero<10){
-        return Convert.ToString(numero);
-     }else{
-            int ultimoDigito = numero % 10;
-            int numeroSinUltimoDigito = numero / 10;
-            return(Convert.ToString(ultimoDigito) + Convert.ToString(invertirNumero(numeroSinUltimoDigito)));
-
-    }
-}
